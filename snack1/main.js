@@ -23,4 +23,4 @@ while (x < 5) {
 }
 
 console.log(sum);
-p.innerText= sum;
+p.innerText= `Somma: ${sum}`;
